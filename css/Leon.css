@@ -218,7 +218,7 @@ transition: .1s;
   /* end Features */
   /* start Services */
 .services{
-padding: var(--section-padding);
+padding: var(--section-padding)0;
 padding-bottom: var(--section-padding);
 }
 .services .services-content{
@@ -277,7 +277,7 @@ line-height: 1.6;
   /* end Services */
   /* start portfolio */
 .portfolio{
-  padding: var(--section-padding);
+  padding: var(--section-padding)0;
   padding-bottom: var(--section-padding);
   background-color: var(--section-background);
 }
